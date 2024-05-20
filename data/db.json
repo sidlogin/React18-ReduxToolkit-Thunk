@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "isCompleted": false,
+      "text": "Pay mobile bill",
+      "id": "9593"
+    },
+    {
+      "isCompleted": false,
+      "text": "Pay Rent",
+      "id": "894e"
+    },
+    {
+      "id": "881",
+      "text": "Book dentist appointment",
+      "isCompleted": true
+    }
+  ]
+}
